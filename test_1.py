@@ -31,4 +31,4 @@ def test_2(setup_module):
 
 def test_3(setup_module):
     print('Test_3 called.')
-    assert 2 == 1 + 1  # 通过assert断言确认测试结果是否符合预期
+    assert 2 == 66 + 1  # 通过assert断言确认测试结果是否符合预期
